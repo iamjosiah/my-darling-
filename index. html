@@ -1,0 +1,49 @@
+<! DOCTYPE hmtml>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Letter to my darling</title>
+    <style>
+        body {
+            font-family:Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            padding: 20px;
+            max-width: 600px;
+            margin: auto;
+            boarder: 1px solid #ccc;
+            boarder-radius: 10px;
+            box-shadow: 2px 2px 12px rgba(0,0,0,0.1);
+       } 
+       h1 {
+            text-align: center;
+            color: #ff6f61
+      } 
+      p {
+            line-height: 1.6;
+      }
+     .gift {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #fff4e1;
+            boarder: 1px dashed #ff6f61;
+            boarder-radius: 5px;
+     } 
+  </style>
+</head>
+<body>
+    <h1> My darling<h1>
+    <p>
+         Hi, darling. As I'm writing this letter, I hope the gift reaches you well and feel my sincerity. Those days, I have been such an immature, and I regret it. It must've been so hard dealing with it, so I apologize for the weird behavior, 
+    </p>
+    <p>
+         By the way, I saw a duplicate online and decided to recreate it. It wasn't good enough and small, but I hope it lighetens up your mood. I also added something that can fill a bit your tummy. Eat it because it will melt. This letter symbolizes how thankful I am cor being my good person. 
+    </p>
+    <div class="gift">
+        <h2>From josiah<h2>
+
+        <h2>Enjoy This Song!</h2>
+        <iframe width="100" height="166" scrolling="no" frameboarder="no" 
+        src="https://open.spotify.com/track/48ZbwHX2QkhwlIUrQwJTyc?si=2vztBHZ1T7ieu4Z3ypIWWA"></iframe>
+         
